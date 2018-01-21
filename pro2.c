@@ -1,7 +1,7 @@
 #include<stdio.h>
 void merge(int [],int [],int [],int,int);
 void mergesort(int [],int);
-void main()
+main()
 {
 int a[15],n,i;
 printf("\n\t\tMERGE SORT USING DIVIDE & CONQUER TECHNIQUE\n\n");
